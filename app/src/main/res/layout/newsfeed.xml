@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#FFFFFF">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="1sp"
+            android:text="Home"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:background="#4682B4"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="1sp"
+            android:text="Friend"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:background="#4682B4"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="1sp"
+            android:text="Notification"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:background="#4682B4"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="1sp"
+            android:text="Menu"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:background="#4682B4"/>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250sp"
+        android:layout_marginHorizontal="5sp"
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:layout_marginTop="15sp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:text="Some Idiot updated his/her status"
+            android:textSize="20sp"
+            android:textColor="#000000"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Something..........................................................
+.............................................................................................
+.............................................................................................
+.............................................................................................
+.............................................................................................
+.............................................................................................
+........................................................."
+            android:textSize="20sp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:background="#4682B4">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="25sp"
+            android:text="Like"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:background="#4682B4"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20sp"
+            android:text="Comment"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:background="#4682B4"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25sp"
+            android:text="Share"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:background="#4682B4"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250sp"
+        android:layout_marginHorizontal="5sp"
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:layout_marginTop="15sp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:text="Some Idiot updated his/her status"
+            android:textSize="20sp"
+            android:textColor="#000000"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Something..........................................................
+.............................................................................................
+.............................................................................................
+.............................................................................................
+.............................................................................................
+.............................................................................................
+........................................................................................"
+            android:textSize="20sp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:background="#4682B4">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="25sp"
+            android:text="Like"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:background="#4682B4"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20sp"
+            android:text="Comment"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:background="#4682B4"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25sp"
+            android:text="Share"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:background="#4682B4"/>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

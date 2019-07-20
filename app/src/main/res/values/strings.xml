@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="text1">Choose Game Mode</string>
+    <string name="button1">1 Player</string>
+    <string name="button2">2 Player</string>
+
+</resources>

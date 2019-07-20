@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B0E0E6"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Result"
+        android:id="@+id/page13_textView"
+        android:layout_marginTop="200sp"
+        android:textSize="80sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Computers Move"
+        android:id="@+id/page13_textView2"
+        android:layout_marginTop="70sp"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_gravity="center"/>
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play Again"
+        android:id="@+id/page13_button"
+        android:layout_marginTop="100sp"
+        android:layout_gravity="center"
+        android:textSize="30sp"
+        android:background="@color/colorPrimary"/>
+
+
+
+
+</LinearLayout>
